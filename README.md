@@ -29,5 +29,9 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 ## 💻 Projeto
 
+![image](https://user-images.githubusercontent.com/84372959/160710644-30e3349a-2e56-4952-aecf-b81ec36f4220.png)
+![image](https://user-images.githubusercontent.com/84372959/160711127-0f00aca7-13fa-4bea-9e7e-67b92b221873.png)
+
+
 Este blog pessoal foi desenvolvido com base em um projeto feito pelo canal do youtube Traversy Media. 
 O projeto contém autenticação feito via firebase e usuário admin.
